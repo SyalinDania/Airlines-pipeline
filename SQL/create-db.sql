@@ -11,5 +11,4 @@ Altitude int,
 Offset decimal,
 DST varchar(10),
 Timezone varchar (100),
-
 );
