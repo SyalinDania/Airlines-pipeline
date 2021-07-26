@@ -11,6 +11,8 @@ Question 1 & 2 :
 
 2) Set up the Azure Services -> Azure Data Factory as the main gate, with Azure Blob Container & Azure SQL Database.
 
+![Piepline](/Images/AzurePipeline.png)
+
    Azure Blob Storage
      - Container - 'input'
      - Blob (airports_cleaned_dataset.csv)
@@ -22,7 +24,7 @@ Question 1 & 2 :
    Azure Data Factory
      - Create two linked services
      - Create two datasets
-     - Use Copy Data feature
+     - Use Copy Data feature -> 'Blob to SQL' 
      
 Question 3 :
 
