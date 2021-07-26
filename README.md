@@ -11,7 +11,7 @@ Question 1 & 2 :
 
 2) Set up the Azure Services -> Azure Data Factory as the main gate, with Azure Blob Container & Azure SQL Database.
 
-![Piepline](/Images/AzurePipeline.png)
+![Piepline](/Images/AzurePipeline.png | width=100)
 
    Azure Blob Storage
      - Container - 'input'
