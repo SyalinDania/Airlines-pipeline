@@ -11,7 +11,7 @@ Using Azure Data Factory as my ETL service in this case study (Q1 & Q2)
 For Question 3, I used the Havenise Function to calculate the distance between Malaysian airports based on the 
 airports_cleaned_dataset.csv.
 
-Future improvements : To include Azure Databricks in the ETL Pipeline for seamless process.
+
 
 
 
