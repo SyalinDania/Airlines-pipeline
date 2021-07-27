@@ -23,6 +23,13 @@ Question 1 & 2 :
      - Create two linked services
      - Create two datasets
      - Use Copy Data feature -> 'Blob to SQL' 
+ 
+ SQL For Total Airports in Malaysia :
+ 
+ SELECT COUNT (DISTINCT Name )
+ AS "Total airports in Malaysia" 
+ FROM airports
+ WHERE Country ='Malaysia';
      
 Question 3 :
 
